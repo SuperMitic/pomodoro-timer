@@ -50,6 +50,9 @@
   .work{
     margin-right: 0.9rem;
   }
+  .repeat{
+    margin-left: 0.9rem;
+  }
   
   .pomodoro-settings label {
     margin-right: 0.5rem;
